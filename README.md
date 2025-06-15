@@ -102,18 +102,26 @@ Senior MIS | Data Science Intern
 ✅ Automated 80%+ of manual processes at my workplace  
 📊 Skilled in Python, Power BI, SQL, Google Apps Script, ML, DL, NLP  
 
-<p align="left">
-  <strong>📫 Connect with me:</strong>&nbsp;
-  <a href="https://www.linkedin.com/in/debasisbaidya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:speak2debasis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
-    <img src="https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td><strong>📫 Connect with me:</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/debasisbaidya" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:speak2debasis@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
+        <img src="https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
