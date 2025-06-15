@@ -102,25 +102,25 @@ Senior MIS | Data Science Intern
 ✅ Automated 80%+ of manual processes at my workplace  
 📊 Skilled in Python, Power BI, SQL, Google Apps Script, ML, DL, NLP  
 
----
+<br>
 
-<p align="left">
-  <span style="font-weight: bold; font-size: 18px; margin-right: 15px;">📫 Connect with me</span>
+<p align="center">
+  <strong style="font-size: 16px;">📫 Connect with me</strong>&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/debasisbaidya">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:speak2debasis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=flat-square&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
   <a href="https://github.com/debasisbaidya">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
