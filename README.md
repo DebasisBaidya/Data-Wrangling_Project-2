@@ -4,7 +4,6 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Used-important?logo=pandas&logoColor=white&color=150458)](https://pandas.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Used-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasisbaidya)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white)](mailto:speak2debasis@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!)
@@ -102,8 +101,7 @@ It ensures that the dataset is clean, structured, and ready for downstream machi
 Senior MIS | Data Science Intern  
 ✅ Automated 80%+ of manual processes at my workplace  
 📊 Skilled in Python, Power BI, SQL, Google Apps Script, ML, DL, NLP  
-📫 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasisbaidya)
+📫 Connect with me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasisbaidya)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white)](mailto:speak2debasis@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!)
 
