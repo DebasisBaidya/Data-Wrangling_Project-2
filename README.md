@@ -101,9 +101,9 @@ It ensures that the dataset is clean, structured, and ready for downstream machi
 Senior MIS | Data Science Intern  
 ✅ Automated 80%+ of manual processes at my workplace  
 📊 Skilled in Python, Power BI, SQL, Google Apps Script, ML, DL, NLP  
-<table align="center">
+<table>
   <tr>
-    <td><strong>📫 Connect with me:</strong></td>
+    <td style="vertical-align: middle;"><strong>📫 Connect with me:</strong></td>
     <td style="vertical-align: middle; padding-left: 10px;">
       <a href="https://www.linkedin.com/in/debasisbaidya" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&logoColor=white" />
