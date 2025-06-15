@@ -101,27 +101,18 @@ It ensures that the dataset is clean, structured, and ready for downstream machi
 Senior MIS | Data Science Intern  
 ✅ Automated 80%+ of manual processes at my workplace  
 📊 Skilled in Python, Power BI, SQL, Google Apps Script, ML, DL, NLP  
-
-<table>
-  <tr>
-    <td><strong>📫 Connect with me:</strong></td>
-    <td>
-      <a href="https://www.linkedin.com/in/debasisbaidya" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:speak2debasis@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
-        <img src="https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center" style="display: flex; align-items: center; gap: 10px;">
+  <strong>📫 Connect with me:</strong>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/debasisbaidya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:speak2debasis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
