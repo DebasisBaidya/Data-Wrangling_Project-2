@@ -101,10 +101,10 @@ It ensures that the dataset is clean, structured, and ready for downstream machi
 Senior MIS | Data Science Intern  
 ✅ Automated 80%+ of manual processes at my workplace  
 📊 Skilled in Python, Power BI, SQL, Google Apps Script, ML, DL, NLP  
-📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasisbaidya)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white)](mailto:speak2debasis@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!)
+📫 **Connect with me:** 
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="28">](https://www.linkedin.com/in/debasisbaidya)
+[<img src="https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white&style=for-the-badge" height="28">](mailto:speak2debasis@gmail.com)
+[<img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white&style=for-the-badge" height="28">](https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!)
 
 ---
 
